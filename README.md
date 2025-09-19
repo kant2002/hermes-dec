@@ -1,3 +1,5 @@
+This is fork, with updated opcodes table.
+
 `hermes-dec` is a reverse-engineering tool which can be used for disassembling and decompiling React Native files compiled into the Hermes VM bytecode (HBC) format.
 
 For a wider presentation of its purpose, please see our [presentation blog post](https://labs.p1sec.com/?p=2070).
@@ -83,6 +85,6 @@ hbc-decompiler assets/index.android.bundle /tmp/my_output_file.js
 
 ## Extra documentation
 
-You can find auto-generated documentation for the Hermes VM opcodes [here](https://p1sec.github.io/hermes-dec/opcodes_table.html).
+You can find auto-generated documentation for the Hermes VM opcodes [here](https://kant2002.github.io/hermes-dec/opcodes_table.html).
 
 This is an useful tool to understand the generated assembly code.
